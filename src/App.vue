@@ -11,10 +11,12 @@ export default {
 </script>
 
 <template>
-  <AppHero />
   <div class="wrapper">
     <h1 class="center-align">{{ AppTitle }}</h1>
     <hr />
+    <div class="import">
+      <AppHero />
+    </div>
   </div>
 </template>
 
@@ -24,5 +26,9 @@ export default {
   h1 {
     color: rgb(245, 245, 245);
   }
+}
+.import {
+  display: flex;
+  justify-content: center;
 }
 </style>

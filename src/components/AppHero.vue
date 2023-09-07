@@ -1,5 +1,7 @@
 <script></script>
 
-<template></template>
+<template>
+  <img src="../assets/img/01.jpg" alt="" />
+</template>
 
 <style></style>
