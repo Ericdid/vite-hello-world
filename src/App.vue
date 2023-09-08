@@ -15,7 +15,7 @@ export default {
   </div>
 </template>
 
-<style lang="scss">
+<style>
 .wrapper {
   background-color: rgb(64, 64, 78);
 }

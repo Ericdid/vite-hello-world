@@ -13,7 +13,7 @@ export default {
   <hr />
 </template>
 
-<style lang="scss">
+<style>
 h1 {
   color: rgb(245, 245, 245);
 }
